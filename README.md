@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Krithik M</h1>
 <h3 align="center">Pixels to Perfection: Navigating Frontend Development</h3>
 
-- 🔭 I’m currently working on [Restuarant Website](https://github.com/Krithik-m-codes/Restuarant-website)
+- 🔭 I’m currently working on [Tripmate](https://github.com/Krithik-m-codes/tripmate)
 
-- 🌱 I’m currently learning **ReactJS , TailwindCSS , FrontEnd Development**
+- 🌱 I’m currently learning **NextJS , Typescript, FullStack Development , FrontEnd Development, MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krithik-m-codes?tab=repositories](https://github.com/Krithik-m-codes?tab=repositories)
 
-- 💬 Ask me about **react , javascript and gsap**
+- 💬 Ask me about **react , javascript and Full stack development**
 
 - 📫 How to reach me **krithikm923@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krithikm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krithikm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krithik-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krithikm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
