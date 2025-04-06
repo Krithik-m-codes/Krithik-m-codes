@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-- 🔭 I'm currently working on [Tripmate](https://github.com/Krithik-m-codes/xride-mobile)
+- 🔭 I'm currently working on [XRide](https://github.com/Krithik-m-codes/xride-mobile)
 - 🌱 I'm continuously learning and improving my **Full Stack Development** skills
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/Krithik-m-codes?tab=repositories)
 - 💬 Ask me about **React, Next.js, JavaScript, and Full Stack Development**
